@@ -1,0 +1,24 @@
+# Ignorar todo por defecto
+*
+
+# Incluir solo estas carpetas
+!Assets/
+!Packages/
+!ProjectSettings/
+
+
+# Ignorar la caché de Unity, logs y otros archivos innecesarios
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# Ignorar configuraciones de usuario y Visual Studio
+UserSettings/
+.vscode/
+*.csproj
+*.sln
+*.user

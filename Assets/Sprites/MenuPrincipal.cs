@@ -16,4 +16,6 @@ public class MenuPrincipal : MonoBehaviour
         Debug.Log("Saliendo...");
         Application.Quit();
     }
+
+ 
 }
